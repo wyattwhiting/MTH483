@@ -1,0 +1,12 @@
+# Ignoring all intermediate files for LaTeX
+
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.idx
+*.ind
+*.log
+*.out
+*.synctex.gz
+*.toc
